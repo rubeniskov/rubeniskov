@@ -9,7 +9,7 @@
 - Starting my journey in golang
 - I’m currently learning everything 🤣
 - I’m looking to collaborate with other developer
-- 2020 Goals: Finish my own website and share some post's about the projects that I made this year
+- 2022 Goals: Finish my own website and share some post's about the projects that I made this year
 
 ### Connect with me:
 
