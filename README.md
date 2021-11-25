@@ -8,7 +8,8 @@
 - Experienced developer in react
 - Starting my journey in golang
 - I’m currently learning everything 🤣
-- I’m looking to collaborate with other developer
+- I’m looking to collaborate with other developers
+- Making my own custom [CB500 Cafe Racer](https://github.com/rubeniskov/cb500_caferacer)
 - 2022 Goals: Finish my own website and share some post's about the projects that I made this year
 
 ### Connect with me:
