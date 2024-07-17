@@ -5,12 +5,22 @@
 
 ## I am a programming enthusiast
 
-- Experienced developer in react
-- Starting my journey in golang
+- Experienced developer in react, typescript and other languages
+- Starting my journey in rust
+- Playing with marching learning
 - I’m currently learning everything 🤣
-- I’m looking to collaborate with other developers
+- Looking to collaborate with other developers
 - Making my own custom [CB500 Cafe Racer](https://github.com/rubeniskov/cb500_caferacer)
-- 2022 Goals: Finish my own website and share some post's about the projects that I made this year
+
+### Things that I read
+
+- [Physics for Game Developers](https://www.amazon.es/Physics-Game-Developers-Science-realistic/dp/1449392512)
+- [Introduction to Algorithms, fourth edition](https://www.amazon.es/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X)
+- [Vehicles- Valentino Braitenberg](https://www.agapea.com/libros/Vehicles-9780262521123-i.htm)
+- [Manual Practico de Linux](https://www.libun.edu.pe/carrito/principal.php/articulo/00060584)
+- [Introducing Go](https://dokumen.pub/introducing-go-build-reliable-scalable-programs-9781491941959-1491941952.html)
+- [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.es/Deep-Learning-Ian-Goodfellow/dp/0262035618)
+- [Learning Node](https://www.amazon.com/-/es/Shelley-Powers/dp/1449323073)
 
 ### Connect with me:
 
