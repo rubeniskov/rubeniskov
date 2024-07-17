@@ -12,7 +12,7 @@
 - Looking to collaborate with other developers
 - Making my own custom [CB500 Cafe Racer](https://github.com/rubeniskov/cb500_caferacer)
 
-### Things that I read
+### My library of Books
 
 - [Physics for Game Developers](https://www.amazon.es/Physics-Game-Developers-Science-realistic/dp/1449392512)
 - [Introduction to Algorithms, fourth edition](https://www.amazon.es/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X)
