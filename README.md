@@ -28,6 +28,9 @@
 - James Halliday - Creator of browserify and amazing stream tools [website](https://substack.net/) | [youtube](https://www.youtube.com/watch?v=faxfLmChjVQ)
 - Iñigo Quilez - Computer Graphics Engineer  [website](https://iquilezles.org/)
 - Mikola Lysenko - Master in structures and functional programming [website](https://0fps.net/) | [github](https://github.com/mikolalysenko)
+- Evans Wallace - Esbuild and Figma founder [website](https://madebyevan.com/) | [github](https://github.com/evanw)
+- Kent C. Dodds - React best practices and clean code [website](https://kentcdodds.com/) | [github](https://github.com/evanw)
+- Dan abramov - Redux creator and React collaborator [website](https://danabra.mov/) | [github](https://github.com/gaearon)
 
 <br />
 
