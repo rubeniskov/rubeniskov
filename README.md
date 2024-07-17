@@ -86,7 +86,7 @@
 
 ## GitHub Stats
 
-<img align="left" alt="rubeniskov's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rubeniskov&show_icons=true&hide_border=true" />
+[![Rubeniskov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubeniskov&show_icons=true&hide_border=true)](https://github.com/rubeniskov)
 
 
 [website]: https://rubeniskov.com
