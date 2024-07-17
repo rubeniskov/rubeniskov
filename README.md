@@ -1,9 +1,9 @@
-### Hi there, I'm Ruben - aka [rubeniskov][website] 👋
+## Hi there, I'm Ruben - aka [rubeniskov][website] 👋
 
 [![Website](https://img.shields.io/website?label=rubeniskov.com&style=for-the-badge&url=https%3A%2F%2Frubeniskov.com)](https://rubeniskov.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rubeniskov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frubeniskov&screen_name=rubeniskov)
 
-## I am a programming enthusiast
+### I am a programming enthusiast
 
 - Experienced developer in react, typescript and other languages
 - Starting my journey in rust
@@ -22,13 +22,12 @@
 - [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.es/Deep-Learning-Ian-Goodfellow/dp/0262035618)
 - [Learning Node](https://www.amazon.com/-/es/Shelley-Powers/dp/1449323073)
 
-### Connect with me:
+### People who inspired me
 
-[<img align="left" alt="rubeniskov.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="rubeniskov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="rubeniskov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rubeniskov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rubeniskov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- Andrej Karpathy - Machine learning doctor [website](https://karpathy.ai/) | [github](https://github.com/karpathy) | [youtube](https://www.youtube.com/andrejkarpathy)
+- James Halliday - Creator of browserify and amazing stream tools [website](https://substack.net/) | [youtube](https://www.youtube.com/watch?v=faxfLmChjVQ)
+- Iñigo Quilez - Computer Graphics Engineer  [website](https://iquilezles.org/)
+- Mikola Lysenko - Master in structures and functional programming [website](https://0fps.net/) | [github](https://github.com/mikolalysenko)
 
 <br />
 
@@ -80,13 +79,15 @@
   <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </a>
 
+<br />
 
-## People who inspired me
+### Connect with me:
 
-- Andrej Karpathy - Machine learning doctor [website](https://karpathy.ai/) [github](https://github.com/karpathy) [youtube](https://www.youtube.com/andrejkarpathy)
-- James Halliday - Creator of browserify and amazing stream tools [website](https://substack.net/) [youtube](https://www.youtube.com/watch?v=faxfLmChjVQ)
-- Iñigo Quilez - Computer Graphics Engineer  [website](https://iquilezles.org/)
-- Mikola Lysenko - Master in structures and functional programming [website](https://0fps.net/) [github](https://github.com/mikolalysenko)
+[<img align="left" alt="rubeniskov.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rubeniskov | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="rubeniskov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rubeniskov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rubeniskov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <br />
