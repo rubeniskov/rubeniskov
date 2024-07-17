@@ -81,6 +81,14 @@
 </a>
 
 
+## People who inspired me
+
+- Andrej Karpathy - Machine learning doctor [website](https://karpathy.ai/) [github](https://github.com/karpathy) [youtube](https://www.youtube.com/andrejkarpathy)
+- James Halliday - Creator of browserify and amazing stream tools [website](https://substack.net/) [youtube](https://www.youtube.com/watch?v=faxfLmChjVQ)
+- Iñigo Quilez - Computer Graphics Engineer  [website](https://iquilezles.org/)
+- Mikola Lysenko - Master in structures and functional programming [website](https://0fps.net/) [github](https://github.com/mikolalysenko)
+
+
 <br />
 <br />
 
