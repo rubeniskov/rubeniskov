@@ -31,6 +31,7 @@
 - Evans Wallace - Esbuild and Figma founder [website](https://madebyevan.com/) | [github](https://github.com/evanw)
 - Kent C. Dodds - React best practices and clean code [website](https://kentcdodds.com/) | [github](https://github.com/evanw)
 - Dan abramov - Redux creator and React collaborator [website](https://danabra.mov/) | [github](https://github.com/gaearon)
+- Jon Gjengset - Author of Rust for Rustaceans [website](https://thesquareplanet.com/) | [github](https://github.com/jonhoo) | [youtube](https://www.youtube.com/@jonhoo)
 
 <br />
 
